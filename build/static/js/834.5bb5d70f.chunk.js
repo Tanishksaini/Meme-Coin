@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmeme_coin_website=self.webpackChunkmeme_coin_website||[]).push([[834],{834:(e,i,s)=>{s.r(i),s.d(i,{default:()=>r});s(43);var n=s(122),t=s(579);const r=()=>(0,t.jsx)(n.P.footer,{initial:{y:250},animate:{y:0},transition:{type:"spring",stiffness:120},children:(0,t.jsx)("p",{children:"\xa9 2024 Meme Coin. All rights reserved."})})}}]);
+//# sourceMappingURL=834.5bb5d70f.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmeme_coin_website=self.webpackChunkmeme_coin_website||[]).push([[140],{140:(e,i,n)=>{n.r(i),n.d(i,{default:()=>a});n(43);var s=n(122),t=n(579);const a=()=>(0,t.jsx)(s.P.header,{initial:{y:-250},animate:{y:0},transition:{type:"spring",stiffness:120},children:(0,t.jsx)("h1",{children:"Meme Coin on Solana"})})}}]);
+//# sourceMappingURL=140.4151977e.chunk.js.map
